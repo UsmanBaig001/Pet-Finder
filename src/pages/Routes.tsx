@@ -1,8 +1,8 @@
 import { Route, Routes } from "react-router-dom";
-import Home from "./Home/Home";
-import Header from "../components/Header/Header";
-import Footer from "../components/Footer/Footer";
-import Details from "./Details/Details";
+import Home from "./home/Home";
+import Header from "../components/header/Header";
+import Footer from "../components/footer/Footer";
+import Details from "./details/Details";
 
 export default function Index() {
   return (
